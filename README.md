@@ -1,4 +1,4 @@
-# Apple Homepage Clone / Concept Page 🍎✨
+# Apple Homepage Clone / Concept Page 
 
 Ek premium  web page design jo Apple ki official website ke clean, minimalist aur iconic UI se inspired hai. Is project mein latest aur concept Apple products ko showcase kiya gaya hai.
 
